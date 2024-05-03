@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jc46ice
 - 👀 I’m interested in Coding, Website designs and Web games.
-- 🌱 I’m currently learning C language, HTML5, CSS.
+- 🌱 I’m currently learning C language, HTML5, CSS and js.
 - 💞️ I’m looking to collaborate on side projects to learn more about programming.
 - 📫 How to reach me
 -       jajocaleb@gmail.com
